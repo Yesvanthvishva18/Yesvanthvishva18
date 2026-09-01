@@ -152,8 +152,6 @@ A machine learning project for classifying text sentiment from a large dataset.
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="./profile/stats.svg" height="180"/>
   <img src="./profile/top-langs.svg" height="180"/>
